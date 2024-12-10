@@ -1,16 +1,36 @@
-# city_app
+# City App - Help Needed! 🗺️
 
-A new Flutter project.
+A Flutter-based city navigation app that aims to provide smart routing for pedestrians. Currently facing some implementation challenges and looking for community support.
 
-## Getting Started
+## Current Status 🚧
 
-This project is a starting point for a Flutter application.
+The app is partially implemented with the following features:
+- Basic map integration with OpenStreetMap
+- User location tracking
+- Layer switching capability
 
-A few resources to get you started if this is your first Flutter project:
+## Known Issues 🐛
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Location Services**
+   - Location updates are inconsistent
+   - Initial location fetch sometimes fails
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Map Integration**
+   - Map layers don't switch properly
+   - Performance issues with markers
+
+3. **API Integration**
+   - Data fetching from Montpellier API needs implementation
+   - Error handling needs improvement
+
+## How You Can Help 🤝
+
+I'm looking for help with:
+- Debugging location services implementation
+- Optimizing map performance
+- Implementing proper API integration
+- General code review and suggestions
+
+## Getting Started 🚀
+
+1. Clone the repository
